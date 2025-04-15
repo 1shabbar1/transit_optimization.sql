@@ -1,6 +1,6 @@
 /*
   Project: Public Transit Optimization & Delay Analysis System
-  Author: [Your Name]
+  Author: Shabbar Poonawala
   Type: MySQL
   Description:
     A SQL project to track public transit routes, stops, schedules, GPS logs,
